@@ -25,7 +25,7 @@ Este hito implementa **React Router** para manejar el enrutamiento en la aplicac
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/lesliefigueroam/hito-5.git
-   cd pizzeria-mamma-mia
+   cd hito-5
    ```
 2. Instalar dependencias:
    ```bash
